@@ -1,0 +1,1 @@
+ALTER TABLE `scenarios` MODIFY COLUMN `color` varchar(50) NOT NULL;

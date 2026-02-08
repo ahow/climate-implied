@@ -1,0 +1,1 @@
+ALTER TABLE `projection_cache` ADD `indicators_data` text NOT NULL;
